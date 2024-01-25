@@ -1,0 +1,12 @@
+fastapi
+pydantic
+sqlalchemy
+uvicorn[standard]
+PyJWT
+python-decouple
+psycopg2
+passlib
+bcrypt
+firebase-admin
+APScheduler
+fastapi-mail
